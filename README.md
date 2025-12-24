@@ -1,4 +1,4 @@
-# Text Compression for Efficient LLMs
+# Text Compression Methods for LLMs
 
 This project explores lossy text compression techniques to reduce input length and improve the efficiency of Large Language Models (LLMs) while preserving semantic content. Three approaches are studied: semantic pruning, cross-lingual compression, and summarization-based compression.
 
