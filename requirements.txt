@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+deep-translator
+torch
+numpy
+pandas
+scikit-learn
